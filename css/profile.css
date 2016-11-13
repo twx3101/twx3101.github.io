@@ -23,6 +23,8 @@ strong{color : #222324;}
 }
 
 
+.img-circle{width: 60%;}
+
 .jumbotron {
   background-image: url("../img/happycat.jpg");
   background-size: cover;

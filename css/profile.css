@@ -7,13 +7,29 @@ body { background: none;
 		font-family: "Open Sans", Arial, sans-serif; 
 }
 
-.navbar{background-color: #113d68;
+.navbar{background-color: #113d68;}
 
 .card{
 	border-color: #ccc;
 }
+
 .card-title{color : #184482;
 }
 
 strong{color : #222324;}
 
+.description{
+	background-image: url("../img/pattern.png");
+}
+
+
+.jumbotron {
+  background-image: url("../img/happycat.jpg");
+  background-size: cover;
+  color: white;
+  text-shadow:
+   -1px -1px 0 #000,  
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+     1px 1px 0 #000;
+ }

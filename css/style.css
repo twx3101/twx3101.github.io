@@ -1,0 +1,47 @@
+li {
+	background: hotpink;
+	color: blue;
+	font-size: 50px;
+	margin: 1 10 100 200;
+}
+
+h1,h2,h3 {
+	color: blue;
+	text-align: center;
+}
+
+#unordered-list{
+	color: violet;
+	font-style: italic;
+	font-family: sans-serif;
+}
+
+#ordered-list{
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+.emphasis{
+	font-weight: bold;
+	color: orange;
+}
+
+#cat-pic{
+	/*border-width: 15px;
+	border-style: solid;
+	*/
+	border: red solid 15px;
+	margin-left: 100;
+	background-color: grey;
+
+}
+
+.img-container{
+	background: #cccccc;
+	padding: 20px;
+	text-align: center;
+}
+/* this is a comment
+.name is class
+#name is ID
+ */
